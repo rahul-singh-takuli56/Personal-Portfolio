@@ -1,0 +1,3 @@
+# Issues:
+
+- make navbar fixed
