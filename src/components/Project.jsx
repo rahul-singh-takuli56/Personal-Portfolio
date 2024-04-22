@@ -105,8 +105,8 @@ const Project = () => {
           title="PortFolio"
           date="12-Feb-2023 - 12-Apr-2023"
           desc="I've built a Portfolio Showcase, a dynamic web application meticulously designed to emulate the style and functionality of leading portfolio platforms. From its sleek and customizable layout."
-          liveUrl="Live"
-          GitHub="GitHub"
+          liveUrl="https://personal-portfolio-jade-seven.vercel.app/"
+          GitHub="https://github.com/rahul-singh-takuli56/Personal-Portfolio"
         />
         <ProjectSection
           url={Nike}
