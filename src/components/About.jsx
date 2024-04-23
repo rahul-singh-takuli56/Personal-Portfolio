@@ -2,17 +2,19 @@ import photo from "../assets/photo.jpg";
 
 const About = () => {
   return (
-    <div id="about" className=" md:h-[500px] h-screen ml-2">
+    <div id="about" className=" md:h-[500px] h-screen ml-2 lg:mb-[250px] ">
       <div className="grid md:grid-cols-2 pt-2 md:pl-[75px] ">
         <div>
-          <p className="md:text-6xl text-4xl font-semibold py-2">Hi, I am</p>
-          <p className="md:text-6xl text-3xl font-semibold py-2">
+          <p className="md:text-6xl text-4xl font-semibold py-2 tracking-tighter">
+            Hi, I am
+          </p>
+          <p className="md:text-6xl text-3xl font-semibold py-2 tracking-tighter">
             Rahul Singh Takuli
           </p>
-          <p className="md:text-5xl text-2xl py-2">
+          <p className="md:text-5xl text-2xl py-2 tracking-wide">
             I am a <span className="text-purple-700 ">FrontEnd Developer</span>
           </p>
-          <p className="text-white/60 md:text-xl  py-3 mb-2">
+          <p className="text-white/60 md:text-xl  py-3 mb-2 tracking-wide">
             As a frontend developer, I&apos;m motivated and versatile, always
             eager for new challenges. With a passion for learning, I&apos;m
             dedicated to delivering top-notch results. I embrace a positive

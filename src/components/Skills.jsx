@@ -4,15 +4,15 @@ const Skills = () => {
   return (
     <div
       id="skills"
-      className="md:pl-[75px]  lg:h-[600px] h-[1100px]  lg:mt-[140px] mt-[70px]"
+      className="md:pl-[75px]  lg:h-[600px] h-[1100px] lg:mb-[130px]  lg:mt-[140px] mt-[50px]"
     >
       <p className="lg:text-6xl text-4xl font-semibold text-center">Skills</p>
       <p className="text-center text-xl text-white/60 my-2">
         Here are a few of the skills I&apos; ve been actively developing.
       </p>
 
-      <div className="grid lg:grid-cols-2 lg:mr-10">
-        <div className="lg:h-[400px] h-600px[] lg:mx-2 my-2 border-2 border-purple-500 rounded-xl  ">
+      <div className="grid lg:grid-cols-2 lg:mr-10 mt-10">
+        <div className="lg:h-[400px]  lg:mx-2 my-2 border-2 border-purple-500 rounded-xl  hover:scale-105 transition-all duration-1000 ">
           <p className="text-4xl text-center text-white/90  py-8">Frontend </p>
 
           <div className="grid lg:grid-cols-3 grid-cols-2 text-center">
@@ -104,7 +104,7 @@ const Skills = () => {
           </div>
         </div>
 
-        <div className="lg:h-[400px] h-600px[] lg:mx-2 my-2 border-2 border-purple-500 rounded-xl  ">
+        <div className="lg:h-[400px] lg:mx-2 my-2 border-2 border-purple-500 rounded-xl  hover:scale-105 transition-all duration-1000">
           <p className="text-4xl text-center text-white/90  py-8">
             Backend & Other{" "}
           </p>

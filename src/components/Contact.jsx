@@ -8,7 +8,7 @@ const Contact = () => {
       <p className="lg:text-6xl text-xl font-semibold text-center lg:mt-16 mt-4">
         Contact <span className="text-purple-500 ">Me Here</span>
       </p>
-      <p className="lg:text-xl text-xs text-white/60 text-center py-4">
+      <p className="lg:text-xl text-xs text-white/60 text-center py-4 tracking-wider">
         Feel free to reach out to me for any questions or opportunities!
       </p>
       <section className="contact-section py-1  mx-auto lg:mt-10">
@@ -43,7 +43,7 @@ const Contact = () => {
             <div className="text-center">
               <button
                 type="submit"
-                className="bg-gradient-to-r from-purple-800 to bg-blue-800 text-white px-6 py-2 rounded-md hover:bg-blue-700"
+                className="bg-gradient-to-r from-purple-800 to bg-blue-800 hover:scale-110 transition-all duration-300 text-white px-6 py-2 rounded-md hover:bg-blue-700"
               >
                 Send Message
               </button>

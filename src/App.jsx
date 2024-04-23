@@ -11,7 +11,7 @@ import Skills from "./components/Skills";
 
 const App = () => {
   return (
-    <main className="font-roboto text-white lg:h-[4600px] h-[8300px]  bg-gray-800">
+    <main className="font-roboto text-white lg:h-[4900px] h-[8300px]  bg-gray-800">
       <header>
         <Navbar />
       </header>

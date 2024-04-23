@@ -8,7 +8,7 @@ const ProjectSection = ({
   GitHub,
 }) => {
   return (
-    <div className=" lg:p-3 px-2  lg:my-10 my-5 lg:mx-3 rounded-md  duration-1000  hover:-translate-y-6 border lg:border-purple-500 border-purple-400 ">
+    <div className=" lg:p-3 px-2  lg:my-10 my-5 lg:mx-3 mx-0.5 rounded-xl  duration-1000  hover:-translate-y-6 border-2 lg:border-purple-500 border-purple-500 ">
       <div>
         <img
           src={url}

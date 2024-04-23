@@ -8,7 +8,7 @@ import Nike from "../assets/Nike.png";
 
 const Project = () => {
   return (
-    <div id="projects" className="h-full md:pl-[75px] lg:mb-[750px] lg:mr-8 ">
+    <div id="projects" className="h-full md:pl-[75px] lg:mb-[900px] lg:mr-8 ">
       <p className="lg:text-6xl text-4xl font-semibold text-center">Projects</p>{" "}
       <p className="text-center lg:text-xl text-white/60 my-4">
         I&apos; ve gained experience through various projects. Here&apos;s a

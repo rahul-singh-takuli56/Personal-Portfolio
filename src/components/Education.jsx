@@ -4,12 +4,12 @@ const Education = () => {
       <p className="text-center lg:text-6xl text-3xl font-semibold mb-5 ">
         Education
       </p>
-      <p className="text-center text-xl text-white/60">
+      <p className="text-center text-xl text-white/60 lg:tracking-noram tracking-tight">
         My education has been a journey of self-discovery and growth. My
         educational details are as follows.
       </p>
 
-      <div className="hover:scale-105 duration-1000  border rounded-md border-purple-700  lg:w-[600px]  mx-auto mt-10">
+      <div className="hover:scale-105 duration-1000 border-2 rounded-xl border-purple-600  lg:w-[600px]  mx-auto mt-10">
         <div className="flex gap-2 pl-2 py-2">
           <div className="lg:pt-2 pt-4">
             <img
@@ -38,7 +38,7 @@ const Education = () => {
             {" "}
             <span className="font-semibold">Grade</span> 8.21 CGPA
           </p>
-          <p className="text-white/60 ">
+          <p className="text-white/60 lg:tracking-wide tracking-tight">
             I am currently pursuing a Bachelor&apos;s degree in Computer Science
             and Engineering at Graphic Era Hill University, Dehradun.I have
             taken courses in Data Structures, Algorithms, Object-Oriented
@@ -48,7 +48,7 @@ const Education = () => {
         </div>
       </div>
 
-      <div className="hover:scale-105 duration-1000  border rounded-md border-purple-700  lg:w-[600px]  mx-auto mt-10">
+      <div className="hover:scale-105 duration-1000  border-2 rounded-xl border-purple-600  lg:w-[600px]  mx-auto mt-10">
         <div className="flex gap-2 pl-2 py-2">
           <div className="lg:pt-2 pt-4">
             <img
@@ -75,7 +75,7 @@ const Education = () => {
             {" "}
             <span className="font-semibold">Grade</span> 82.00 %
           </p>
-          <p className="text-white/60 ">
+          <p className="text-white/60 lg:tracking-wide tracking-tight">
             For my higher secondary education (12th grade), I pursued the
             Science stream (PCM - Physics, Chemistry, Mathematics) and completed
             my 12th from Country Wide Public School.
@@ -83,7 +83,7 @@ const Education = () => {
         </div>
       </div>
 
-      <div className="hover:scale-105 duration-1000  border rounded-md border-purple-700  lg:w-[600px] mx-auto mt-10">
+      <div className="hover:scale-105 duration-1000  border-2 rounded-xl border-purple-600  lg:w-[600px] mx-auto mt-10">
         <div className="flex gap-2 pl-2 py-2">
           <div className="lg:pt-2 pt-4">
             <img
@@ -110,7 +110,7 @@ const Education = () => {
             {" "}
             <span className="font-semibold">Grade</span> 8.00 CGPA
           </p>
-          <p className="text-white/60 ">
+          <p className="text-white/60 lg:tracking-wide tracking-tight">
             For my secondary education (10th grade), I attended Country Wide
             Public School and completed my studies with a focus on subjects
             including Mathematics, Science, English, and Social Studies.
