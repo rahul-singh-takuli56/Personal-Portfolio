@@ -37,7 +37,7 @@ const Navbar = () => {
         </ul>
 
         <a
-          href="https://drive.google.com/file/d/15o-ZbIP8aecxbqvXEOEsvlnUTi0UpJxG/view?usp=sharing"
+          href="https://drive.google.com/file/d/1KkUSeKDiDs8fBQkkz5FsFrce3Z5yrkRf/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
