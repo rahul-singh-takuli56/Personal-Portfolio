@@ -79,7 +79,7 @@ const Navbar = () => {
             </li>
             <li className="mt-10 py-2 pl-2 text-center bg-gradient-to-r from-pink-600 to-purple-500 rounded-xl hover:text-slate-50 w-[80%]">
               <a
-                href="https://drive.google.com/file/d/15o-ZbIP8aecxbqvXEOEsvlnUTi0UpJxG/view?usp=sharing"
+                href="https://drive.google.com/file/d/1KkUSeKDiDs8fBQkkz5FsFrce3Z5yrkRf/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 alt="Resume"

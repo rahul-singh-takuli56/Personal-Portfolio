@@ -5,7 +5,7 @@ const Footer = () => {
         <p className="text-center text-2xl font-semibold mb-6">
           Rahul Singh Takuli
         </p>
-        <div className="flex justify-center items-center gap-10 mb-10">
+        <div className="flex justify-center items-center lg:gap-10 gap-3 mb-10">
           <a href="#" className="hover:text-purple-500">
             About
           </a>

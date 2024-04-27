@@ -113,7 +113,7 @@ const Skills = () => {
             <div className="flex text-center justify-center border lg:w-[150px] w-[130px] lg:h-[60px] h-[55px] rounded-xl border-white/70 mx-auto px-4  py-4 mb-8">
               <img
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg42QsKGeegWHT01o2L7oLpk5D29x8w2yL_K7EYjGAA&s"
-                className=" w-8"
+                className=" w-7"
               />
               <span className="text-white/70  pl-2 lg:text-xl  text-md ">
                 Node Js
